@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://wuyupedu.github.io/sitemap/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/SJy/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/UAB/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/kBG/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/NVY/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/hpb/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/ruD/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/rdH/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/ToI/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/juP/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/cJl/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/Wfk/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/gDj/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/Esx/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/JWy/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/chJ/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/hAU/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/kyt/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/Alm/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/HJl/sitemap_index.wuyupedu
+Sitemap: https://wuyupedu.github.io/uPo/sitemap_index.wuyupedu
